@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "patio-de-area",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

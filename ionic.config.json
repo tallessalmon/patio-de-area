@@ -1,0 +1,8 @@
+{
+  "name": "patio-de-area",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a7b09ff0"
+}
